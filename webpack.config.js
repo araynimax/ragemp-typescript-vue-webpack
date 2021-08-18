@@ -57,7 +57,6 @@ module.exports = [
 
         return {
             target: 'web',
-            mode: 'development',
 
             entry: p,
             output: {
